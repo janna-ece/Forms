@@ -1,0 +1,36 @@
+
+        h1{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: rgb(188, 123, 18);
+            text-align: center;
+        }
+        label{
+            margin-bottom: 10px;
+             
+            text-align: center;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: rgb(155, 23, 89);
+            display:block
+        }
+        input{
+            text-align: center;
+            margin-left: 200px;
+            margin-bottom: 10px;
+            border-color: crimson;
+        }
+        .submits{
+            margin-left: 250px;
+            color: rgb(227, 183, 54);
+            border-color: rgb(35, 29, 30);
+        }
+        section{
+
+background-color: antiquewhite;
+border-radius: 40px;
+padding: 25px;
+border-bottom-left-radius: 10px;             
+        }
+.checks{
+color: rgb(255, 183, 0);
+background-color: rgb(41, 27, 7);
+        }
